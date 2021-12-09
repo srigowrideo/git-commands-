@@ -1,4 +1,33 @@
 # git-commands-
+Why should you use git?
+    • It helps to keep track on changes made in code.
+    • It helps to develop new code and push.
+    • It helps to save easily all versions on git.
+    • It easily shift to low versions from high version.
+    • It helps to make collaborations also makes to multiple people to merge into one source.
+    • It helps to have record on what has been done.
+
+
+What is the benefit of distributed version control?
+    • Atomatically branching and merging is possible.
+    • Users can work offline.
+    • Multiple copies on single backup.
+    • Speed can be more.
+
+What is the command for installing Git on your Linux system?
+    • sudo apt install git -all
+
+Why should you set up user.name and user.email configuration? How do you set them up?
+    • To change git identity
+    • git config –global user.name “username”
+    • git config –global user.email “emailid”
+      
+
+
+
+
+
+Git commands:
 
 $ git config --global user.name "[name]"
 Sets the name you want attached to your commit transactions
